@@ -1,0 +1,24 @@
+# OS / editor noise
+Thumbs.db
+.DS_Store
+desktop.ini
+*.swp
+*~
+
+# Editor / IDE
+.vscode/
+.idea/
+*.sublime-*
+
+# Logs
+*.log
+npm-debug.log*
+
+# Node (if tooling is ever added)
+node_modules/
+
+# Build instruction files — NOT part of the shipped website.
+# tihuan.txt contains the previous brand's legal entity, address and
+# mailbox details, which must not be published to a public repository.
+SPEC.txt
+tihuan.txt
